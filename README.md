@@ -1,0 +1,1 @@
+This repository contains my working copy of all of the code for the WebAPI 2 book by Adam Freeman.
