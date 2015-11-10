@@ -29,5 +29,14 @@ namespace PartyInvites.Controllers {
                 return View();
             }
         }
+
+        [ChildActionOnly]
+        public ActionResult Attendees()
+        {
+            var model = from r in Repository.Responses
+                        where r.WillAttend == true
+                        select r;
+            return View(model);
+        }
     }
 }

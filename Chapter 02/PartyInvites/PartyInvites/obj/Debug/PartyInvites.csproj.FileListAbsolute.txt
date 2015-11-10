@@ -16,3 +16,13 @@ D:\data\Apress\Apress-WebAPI2\Chapter 02\PartyInvites\PartyInvites\bin\System.We
 D:\data\Apress\Apress-WebAPI2\Chapter 02\PartyInvites\PartyInvites\obj\Debug\PartyInvites.csprojResolveAssemblyReference.cache
 D:\data\Apress\Apress-WebAPI2\Chapter 02\PartyInvites\PartyInvites\obj\Debug\PartyInvites.dll
 D:\data\Apress\Apress-WebAPI2\Chapter 02\PartyInvites\PartyInvites\obj\Debug\PartyInvites.pdb
+D:\DATA\Apress\Apress-WebAPI2\Chapter 02\PartyInvites\PartyInvites\bin\Newtonsoft.Json.dll
+D:\DATA\Apress\Apress-WebAPI2\Chapter 02\PartyInvites\PartyInvites\bin\System.Net.Http.Formatting.dll
+D:\DATA\Apress\Apress-WebAPI2\Chapter 02\PartyInvites\PartyInvites\bin\System.Web.Http.dll
+D:\DATA\Apress\Apress-WebAPI2\Chapter 02\PartyInvites\PartyInvites\bin\System.Web.Http.WebHost.dll
+D:\DATA\Apress\Apress-WebAPI2\Chapter 02\PartyInvites\PartyInvites\bin\Microsoft.Web.Infrastructure.dll
+D:\DATA\Apress\Apress-WebAPI2\Chapter 02\PartyInvites\PartyInvites\bin\Newtonsoft.Json.xml
+D:\DATA\Apress\Apress-WebAPI2\Chapter 02\PartyInvites\PartyInvites\bin\System.Net.Http.Formatting.xml
+D:\DATA\Apress\Apress-WebAPI2\Chapter 02\PartyInvites\PartyInvites\bin\System.Web.Http.xml
+D:\DATA\Apress\Apress-WebAPI2\Chapter 02\PartyInvites\PartyInvites\bin\System.Web.Http.WebHost.xml
+D:\DATA\Apress\Apress-WebAPI2\Chapter 02\PartyInvites\PartyInvites\bin\Microsoft.Web.Infrastructure.xml
